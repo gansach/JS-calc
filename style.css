@@ -1,6 +1,6 @@
 #calculator {
-  width: 40vw;
-  height: 80vh;
+  width: 97vw;
+  height: 90vh;
 
   display: flex;
   flex-direction: column;
@@ -33,7 +33,7 @@
   align-items: center;
   font-size: 5vw;
   padding: 5px 0 0 0;
-  box-shadow: 0 0 0 0.5px black;
+  box-shadow: 0 0 0 0.5px rgb(136, 134, 134);
 }
 .key:hover {
   background-color: grey;
